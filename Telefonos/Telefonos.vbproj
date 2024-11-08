@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0F55AD7D-76F8-46AC-AD4F-F2258D3C509B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Telefonos.My.MyApplication</StartupObject>
+    <RootNamespace>Telefonos</RootNamespace>
+    <AssemblyName>Telefonos</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\InstaladorTelefonos\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ProductName>Telefonos</ProductName>
+    <PublisherName>Alan Aranda</PublisherName>
+    <SuiteName>Catarina Software</SuiteName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Telefonos.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Telefonos.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>smphn_k.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0DF163EEAD3A6814EB4E28D94FBB7E1ED27B8F72</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Telefonos_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ErikEJ.SqlCe40, Version=2.1.6.14, Culture=neutral, PublicKeyToken=03b0b5a60fec3719, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeBulkCopy.2.1.6.15\lib\net40\ErikEJ.SqlCe40.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ErikEJ.SqlCeMembership, Version=2.1.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeMembership.2.1.0.2\lib\net40\ErikEJ.SqlCeMembership.dll</HintPath>
+    </Reference>
+    <Reference Include="ISqlCeScripting, Version=3.5.2.15, Culture=neutral, PublicKeyToken=3681435cabd17ad2, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeScripting.3.5.2.79\lib\net40\ISqlCeScripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="QuickGraph, Version=3.6.61114.0, Culture=neutral, PublicKeyToken=f3fb40175eec2af3, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeScripting.3.5.2.79\lib\net40\QuickGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Data, Version=3.6.61114.0, Culture=neutral, PublicKeyToken=3681435cabd17ad2, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeScripting.3.5.2.79\lib\net40\QuickGraph.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph.Graphviz, Version=3.6.61114.0, Culture=neutral, PublicKeyToken=f3fb40175eec2af3, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeScripting.3.5.2.79\lib\net40\QuickGraph.Graphviz.dll</HintPath>
+    </Reference>
+    <Reference Include="Salient.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=03b0b5a60fec3719, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeBulkCopy.2.1.6.15\lib\net40\Salient.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SqlCeScripting40, Version=3.5.2.15, Culture=neutral, PublicKeyToken=f411b7eab4d5c1c5, processorArchitecture=MSIL">
+      <HintPath>..\packages\ErikEJ.SqlCeScripting.3.5.2.79\lib\net40\SqlCeScripting40.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Compact.4.0.8876.1\lib\net40\System.Data.SqlServerCe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.Ribbon">
+      <HintPath>..\..\System.Windows.Forms.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.vb" />
+    <Compile Include="frmApuntes.Designer.vb">
+      <DependentUpon>frmApuntes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmApuntes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArea.Designer.vb">
+      <DependentUpon>frmArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackup.Designer.vb">
+      <DependentUpon>frmBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscaUsuario.Designer.vb">
+      <DependentUpon>frmBuscaUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscaUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargando.Designer.vb">
+      <DependentUpon>frmCargando.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargando.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategorias.Designer.vb">
+      <DependentUpon>frmCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCeCos.Designer.vb">
+      <DependentUpon>frmCeCos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCeCos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDispositivo.Designer.vb">
+      <DependentUpon>frmDispositivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDispositivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpresa.Designer.vb">
+      <DependentUpon>frmEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportarTablas.Designer.vb">
+      <DependentUpon>frmImportarTablas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportarTablas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMant_Equipo.Designer.vb">
+      <DependentUpon>frmMant_Equipo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMant_Equipo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarca.Designer.vb">
+      <DependentUpon>frmMarca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.vb">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModelo.Designer.vb">
+      <DependentUpon>frmModelo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModelo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMontos.Designer.vb">
+      <DependentUpon>frmMontos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMontos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanes.Designer.vb">
+      <DependentUpon>frmPlanes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProveedor.Designer.vb">
+      <DependentUpon>frmProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteCerrados.Designer.vb">
+      <DependentUpon>frmReporteCerrados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteCerrados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteDeudores.Designer.vb">
+      <DependentUpon>frmReporteDeudores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteDeudores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEquiposDeBaja.Designer.vb">
+      <DependentUpon>frmReporteEquiposDeBaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteEquiposDeBaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEquiposOperador.Designer.vb">
+      <DependentUpon>frmReporteEquiposOperador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteEquiposOperador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteFechasPlan.Designer.vb">
+      <DependentUpon>frmReporteFechasPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteFechasPlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteIncidentesAbiertos.Designer.vb">
+      <DependentUpon>frmReporteIncidentesAbiertos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteIncidentesAbiertos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteIncidentesTotales.Designer.vb">
+      <DependentUpon>frmReporteIncidentesTotales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteIncidentesTotales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.vb">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.vb">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmApuntes.resx">
+      <DependentUpon>frmApuntes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArea.resx">
+      <DependentUpon>frmArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackup.resx">
+      <DependentUpon>frmBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscaUsuario.resx">
+      <DependentUpon>frmBuscaUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargando.resx">
+      <DependentUpon>frmCargando.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategorias.resx">
+      <DependentUpon>frmCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCeCos.resx">
+      <DependentUpon>frmCeCos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDispositivo.resx">
+      <DependentUpon>frmDispositivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpresa.resx">
+      <DependentUpon>frmEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportarTablas.resx">
+      <DependentUpon>frmImportarTablas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMant_Equipo.resx">
+      <DependentUpon>frmMant_Equipo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarca.resx">
+      <DependentUpon>frmMarca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModelo.resx">
+      <DependentUpon>frmModelo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMontos.resx">
+      <DependentUpon>frmMontos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanes.resx">
+      <DependentUpon>frmPlanes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProveedor.resx">
+      <DependentUpon>frmProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteCerrados.resx">
+      <DependentUpon>frmReporteCerrados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteDeudores.resx">
+      <DependentUpon>frmReporteDeudores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEquiposDeBaja.resx">
+      <DependentUpon>frmReporteEquiposDeBaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEquiposOperador.resx">
+      <DependentUpon>frmReporteEquiposOperador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteFechasPlan.resx">
+      <DependentUpon>frmReporteFechasPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteIncidentesAbiertos.resx">
+      <DependentUpon>frmReporteIncidentesAbiertos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteIncidentesTotales.resx">
+      <DependentUpon>frmReporteIncidentesTotales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cel.ico" />
+    <Content Include="smphn_k.ico" />
+    <Content Include="Telefonos.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    if not exist "$(TargetDir)x86" md "$(TargetDir)x86"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\*.*" "$(TargetDir)x86"
+    if not exist "$(TargetDir)amd64" md "$(TargetDir)amd64"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\*.*" "$(TargetDir)amd64"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

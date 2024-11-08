@@ -1,0 +1,162 @@
+C:\Users\Alan\AppData\Local\Temporary Projects\Telefonos\bin\Debug\Telefonos.exe.config
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\frmUsuario.resx
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\frmUsuario.vb
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\frmUsuario.Designer.vb
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.sdf
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.exe.config
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.exe.manifest
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.application
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.exe
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.pdb
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Telefonos.xml
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCe40.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\MetroFramework.Design.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\MetroFramework.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\MetroFramework.Fonts.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Salient.Data.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\System.Data.SqlServerCe.dll
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCe40.xml
+D:\Telefonos\Telefonos\Telefonos\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.ResolveComReference.cache
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmArea.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmBackup.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmBuscaUsuario.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmCategorias.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmCeCos.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmDispositivo.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmEmpresa.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmImportarTablas.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmMant_Equipo.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmMarca.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmMenu.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmModelo.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmMontos.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmPlanes.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmProveedor.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteCerrados.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteDeudores.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteEquiposDeBaja.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteFechasPlan.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteIncidentesAbiertos.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteIncidentesTotales.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.frmUsuario.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.Resources.resources
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.GenerateResource.Cache
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.exe.manifest
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.application
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.exe
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.xml
+D:\Telefonos\Telefonos\Telefonos\obj\Debug\Telefonos.pdb
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\frmUsuario.resx
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\frmUsuario.vb
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\frmUsuario.Designer.vb
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.sdf
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.exe.config
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.exe.manifest
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.application
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.exe
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.pdb
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.xml
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCe40.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Salient.Data.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\System.Data.SqlServerCe.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCe40.xml
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbprojAssemblyReference.cache
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.ResolveComReference.cache
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmArea.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmBackup.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmBuscaUsuario.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmCategorias.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmCeCos.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmDispositivo.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmEmpresa.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmImportarTablas.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMant_Equipo.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMarca.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMenu.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmModelo.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMontos.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmPlanes.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmProveedor.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteCerrados.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteDeudores.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteEquiposDeBaja.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteFechasPlan.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteIncidentesAbiertos.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteIncidentesTotales.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmUsuario.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.Resources.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.GenerateResource.cache
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.CoreCompileInputs.cache
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.exe.manifest
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.application
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.CopyComplete
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.exe
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.xml
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.pdb
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmApuntes.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteEquiposOperador.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmCargando.resources
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCeMembership.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ISqlCeScripting.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\QuickGraph.Data.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\QuickGraph.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\QuickGraph.Graphviz.dll
+D:\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\SqlCeScripting40.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\frmUsuario.resx
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\frmUsuario.vb
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\frmUsuario.Designer.vb
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.sdf
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.exe.config
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.exe.manifest
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.application
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.exe
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.pdb
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Telefonos.xml
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCe40.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCeMembership.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ISqlCeScripting.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\QuickGraph.Data.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\QuickGraph.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\Salient.Data.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\SqlCeScripting40.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\bin\Debug\ErikEJ.SqlCe40.xml
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.AssemblyReference.cache
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.ResolveComReference.cache
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmApuntes.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmArea.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmBackup.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmBuscaUsuario.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmCargando.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmCategorias.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmCeCos.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmDispositivo.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmEmpresa.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmImportarTablas.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMant_Equipo.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMarca.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMenu.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmModelo.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmMontos.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmPlanes.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmProveedor.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteCerrados.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteDeudores.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteEquiposDeBaja.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteEquiposOperador.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteFechasPlan.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteIncidentesAbiertos.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmReporteIncidentesTotales.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.frmUsuario.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.Resources.resources
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.GenerateResource.cache
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.CoreCompileInputs.cache
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.exe.manifest
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.application
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.vbproj.Up2Date
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.exe
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.xml
+C:\Users\alana\OneDrive\Otros\Desarrollo Software\Teléfonos_Inicial\Telefonos\Telefonos\obj\Debug\Telefonos.pdb
